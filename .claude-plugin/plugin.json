@@ -1,0 +1,25 @@
+{
+  "name": "arkhe-skills",
+  "version": "1.0.0",
+  "description": "ARKHE ZERO skill collection: forensic video generation, dream interpretation with real neuroscience, AI sentinel shield for MCP agents, and cryptographic authorship certification. Built by Marco Antonio Rojas Valdovinos from Termux on Android.",
+  "author": {
+    "name": "Marco Antonio Rojas Valdovinos"
+  },
+  "repository": "https://github.com/Marcorojas17/arkhe-skills",
+  "license": "MIT",
+  "keywords": [
+    "arkhe",
+    "arkhe-zero",
+    "forensic-video",
+    "ffmpeg",
+    "hmac",
+    "sha256",
+    "post-quantum",
+    "ml-dsa",
+    "ai-sentinel",
+    "mcp",
+    "dream-interpretation",
+    "termux",
+    "android"
+  ]
+}
